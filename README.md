@@ -3,7 +3,8 @@
 </p>
 
 
-# Ejemplo de consumir una api en otra nestjs
+# Ejemplo de consumir una api en otra nestjs, solo instalen los paquetes y deben tener ejecutando el eva-api, que este funcionando, sino, pues no jala
+# en este ejemplo solo se consume un endpont pero se puede cambiar la ruta, para probarlo usen algun pograma como postman y en el gel ponen el query matricula y el valor y ya
 
 ## Instalar
 ```
